@@ -12,7 +12,7 @@ You can find the related YouTube videos at the following links :
 
 **Part-1**: https://youtu.be/5rkn1YnBnV4
 
-**Part-2**:https://youtu.be/5rkn1YnBnV4
+**Part-2**: https://youtu.be/8kfJ4E8fg5g
 
 ## AUTHOR
 Shayan Vassef 
