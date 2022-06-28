@@ -10,4 +10,5 @@ Also, in the following, you can find the period of the given signal ![S](https:/
 ## VIDEO
 You can find the related YouTube videos at the following links :
 **Part-1**: https://youtu.be/5rkn1YnBnV4
+
 **Part-2**:https://youtu.be/5rkn1YnBnV4
